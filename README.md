@@ -1,4 +1,4 @@
-# UTS Communication Protocol - Kelompok 04
+# UTS Communication Protocol - Kelompok 02
 
 ## Identitas Kelompok
 Mata Kuliah: Communication Protocol  
@@ -34,11 +34,15 @@ Project ini menguji komunikasi API menggunakan request GET dan POST, menganalisi
 Base URL:
 http://127.0.0.1:8088
 
-Contoh endpoint:
-- GET /posts
-- GET /users
-- POST /posts
-- POST /comments
+Endpoint utama:
+- GET /api/products
+- GET /api/users
+- POST /api/profiles
+- POST /api/orders
+- GET /api/transactions
+
+Endpoint troubleshooting:
+- GET /api/wrong-endpoint
 
 ## Cara Menjalankan Script Python
 ```bash
@@ -50,7 +54,7 @@ Output akan tersimpan di:
 output/parsed_result.csv
 
 ## Link Deliverables
-- Report PDF: /report/UTS_CP_Reguler_Kelompok04_Report.pdf
-- PPT: /ppt/UTS_CP_Reguler_Kelompok04_Presentation.pptx
-- Postman Collection: /postman/UTS_CP_Reguler_Kelompok04_Postman_Collection.json
-- Packet Capture: /capture/UTS_CP_Reguler_Kelompok04_Capture_Role2.pcapng
+- Report PDF: /report/UTS_CP_Reguler_Kelompok02_Report.pdf
+- PPT: /ppt/UTS_CP_Reguler_Kelompok02_Presentation.pptx
+- Postman Collection: /postman/UTS_CP_Reguler_Kelompok02_Postman_Collection.json
+- Packet Capture: /capture/UTS_CP_Reguler_Kelompok02_Capture_Role2.pcapng
