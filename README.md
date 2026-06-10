@@ -10,7 +10,7 @@ Tema: API Request, Data Encoding, and Packet Capture
 | Nama | NIM | Role |
 |---|---|---|
 | Zahir Ali Izzaturahman | 25110500021 | Role 1 - API Tester dan Postman Collection |
-| Stephanus Teo | 25110500013 | Role 2 - Packet Capture dan Troubleshooting Evidence |
+| Stepanus Teo | 25110500013 | Role 2 - Packet Capture dan Troubleshooting Evidence |
 | Enrico Lazuardi | 2511050027 | Role 3 - Data Format Analysis dan Python Parsing |
 | Leroy Christopher Gerson | 25110500025 | Role 4 - Report, PPT, GitHub Structure, dan Backup Presenter |
 
