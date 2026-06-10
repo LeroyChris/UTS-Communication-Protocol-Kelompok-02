@@ -41,9 +41,6 @@ Endpoint utama:
 - POST /api/orders
 - GET /api/transactions
 
-Endpoint troubleshooting:
-- GET /api/wrong-endpoint
-
 ## Cara Menjalankan Script Python
 ```bash
 pip install requests pandas
